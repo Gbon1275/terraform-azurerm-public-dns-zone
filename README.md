@@ -2,8 +2,6 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Terraform Version](https://img.shields.io/badge/Terraform%20Version-latest-blue)
 ![Version](https://img.shields.io/badge/Version-0.0.1-green)
--[Example Usage](##Examples)
--[Arguments](##Arguments)
 
 ##  Description
 This terraform module will create a new Public DNS Zone
