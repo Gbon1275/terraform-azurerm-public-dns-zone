@@ -1,0 +1,4 @@
+# ignore all terraform outputs
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
